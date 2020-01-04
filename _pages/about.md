@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+I graduated in 2019 from [Birla Institute of Techonlogy and Science, Pilani (Pilani Campus)](https://www.bits-pilani.ac.in/Pilani/). I am currently working as an associate engineer in Qualcomm, Hyderabad. I have actively worked on projects related to machine learning for the past 2 years and I am actively looking for opportunities in this field. 
+
+
 Computer Science courses completed:
 -----
 
@@ -43,31 +46,31 @@ Work Experience/Internships
 Projects
 ------
   * Customer Churn Prediction ( Flipkart)
-        * Classification of customers into three classes based on their transactions in a calendar year.
-        * Data contained more than 100 variables and about 40 million different transactions hence a lot of preprocessing.
-        * Used  XGBoost, random forest and LR in boosting ensemble to achieve an accuracy for 78% on 3 class predictors.
+       * Classification of customers into three classes based on their transactions in a calendar year.
+       * Data contained more than 100 variables and about 40 million different transactions hence a lot of preprocessing.
+       * Used  XGBoost, random forest and LR in boosting ensemble to achieve an accuracy for 78% on 3 class predictors.
   * Checkout Conversion Drivers ( Flipkart)
-        * Predict drivers leading to a successful checkout by a customer and their impact on conversion.
-        * Used Adobe analytics and Sql queries to aggregate the data of flipkart customers.
-        * Used Gradient boosting and Random forest to find feature importance and predict customer conversion.
+       * Predict drivers leading to a successful checkout by a customer and their impact on conversion.
+       * Used Adobe analytics and Sql queries to aggregate the data of flipkart customers.
+       * Used Gradient boosting and Random forest to find feature importance and predict customer conversion.
   * Post Classifier (The Level)
-        * Built a topic classifier with the purpose of tagging posts written by users on their news feed.
-        * Used Multi-class SVM to classify the topic into relevant topics.
-        * Built on reddit posts of the topic as true points coupled with proper noun tagging using spacy library.
-        * Achieved an accuracy of 96.3% on dev set making the model ready for live testing.
+       * Built a topic classifier with the purpose of tagging posts written by users on their news feed.
+       * Used Multi-class SVM to classify the topic into relevant topics.
+       * Built on reddit posts of the topic as true points coupled with proper noun tagging using spacy library.
+       * Achieved an accuracy of 96.3% on dev set making the model ready for live testing.
   * Rate Models (The Level)
-        * Built rate models to predict car insurance rates of insurance companies like GEICO.
-        * Initial weights of all variables (like car price and age) were gathered from rate filings of insurance companies.
-        * Built a similarity score generator using clustering to validate the rate models.
+       * Built rate models to predict car insurance rates of insurance companies like GEICO.
+       * Initial weights of all variables (like car price and age) were gathered from rate filings of insurance companies.
+       * Built a similarity score generator using clustering to validate the rate models.
   * Car Price Predictor (The Level)
-        * Predicted car price using year, make, model and mileage of the car.
-        * Used Gradient Boosting Decision Trees to train the model using  the kaggle 1.2 million car price dataset.
+       * Predicted car price using year, make, model and mileage of the car.
+       * Used Gradient Boosting Decision Trees to train the model using  the kaggle 1.2 million car price dataset.
   * Financial Signal Processing
-        * Time series analysis using Kalman Filters, SVM and Recursive neural networks.
-        * Achieved an accuracy of over 95% using open source NYSE data.
+       * Time series analysis using Kalman Filters, SVM and Recursive neural networks.
+       * Achieved an accuracy of over 95% using open source NYSE data.
   * Movie review text classification (Word sentiment analysis)
-        * The movie reviews(Large movie review dataset IMDB) are classified as good or bad using word level features.
-        * Used SVM and Naive Bayes to classify the reviews.
+       * The movie reviews(Large movie review dataset IMDB) are classified as good or bad using word level features.
+       * Used SVM and Naive Bayes to classify the reviews.
   * Image classification
-        * Classification on the CIFAR-10 dataset using Deep Convolutional Networks.
-        * Used the TensorFlow library in Python to build the network and fine tuned the final layers.
+       * Classification on the CIFAR-10 dataset using Deep Convolutional Networks.
+       * Used the TensorFlow library in Python to build the network and fine tuned the final layers.
