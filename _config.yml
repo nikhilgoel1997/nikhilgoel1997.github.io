@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nikhil Goel"
+title                    : "Me"
 title_separator          : "-"
-name                     : &name "Nikhil Goel TEST"
-description              : &description "I love machine learning"
+name                     : &name "Nikhil Goel"
+description              : &description "I am passionate about machine learning and am continuously looking for opportunities in this field"
 url                      : https://nikhilgoel1997.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nikhilgoel1997/nikhilgoel1997.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nikhil Goel"
   avatar           : "profile.png"
-  bio              : "I love machine learning"
+  bio              : "I am passionate about machine learning and am continuously looking for opporunities in this field."
   location         : 
   employer         : "Qualcomm"
   pubmed           : 
